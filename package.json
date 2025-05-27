@@ -1,0 +1,19 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "Een eenvoudige BMI-calculator applicatie",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "bmi",
+    "calculator",
+    "health"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
