@@ -1,0 +1,9 @@
+{
+  "build": {
+    "type": "npm",
+    "goal": "build"
+  },
+  "deploy": {
+    "goal": "start"
+  }
+}
